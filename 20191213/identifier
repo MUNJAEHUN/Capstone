@@ -1,0 +1,15 @@
+식별자 (identifier)
+
+
+primitive type (원시) 
+정수형 :byte, short(16bit), int(32bit), long(64~bit)
+실수형 : 					float(32bit), double(64~bit), 
+문자형 :      			char(2byte)
+논리형 :  boolean(True, false);
+
+
+
+
+
+
+reference type (참조) :Class, Interface, Array ...
