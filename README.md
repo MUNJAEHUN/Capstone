@@ -1,2 +1,2 @@
-# Capstone
-3-2
+# JAVA BASIC
+자바 기초 복습 저장용 
