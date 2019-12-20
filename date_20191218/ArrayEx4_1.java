@@ -26,6 +26,20 @@ public class ArrayEx4_1 {
 	
 	int [][]m=new int[3][2];
 	System.out.println(m[0]);
+	System.out.println("=======================");
+	int [][]m=new int[3][2];
+	System.out.println(m[0]);
+	System.out.println(m.length);
+	System.out.println(m[0].length);
+//	2차원 배열의 길이를 구하면 ? 
+//
+//			m.length -> 3 참조변수에 있는 길이가 몇개인지 알려줌
+//			system.out.println(m[0]); -> 주소값
+//			m[0].length-> m동,0번에 있는 칸수 ->2개    
+	
+//	[3] ㅁ ㅁ ㅁ  -> 접근 [2]     		       ㅁㅁ 
+//			 	  	[	           ㅁㅁ
+//				  	[  		   ㅁㅁ
 	
 	}//main
 }//class
